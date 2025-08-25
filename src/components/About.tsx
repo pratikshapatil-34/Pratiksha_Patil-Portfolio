@@ -1,6 +1,6 @@
 import React from 'react';
 import { Code, Palette, Zap, Heart } from 'lucide-react';
-import { Card, CardContent } from '@/components/ui/card';
+import { Card, CardContent } from './ui/card';
 
 const About = () => {
   const highlights = [
